@@ -1,0 +1,39 @@
+[font]
+normal  = { family = "Tamzen", style = "Regular" }
+bold    = { family = "Tamzen", style = "Bold" }
+italic  = { family = "Tamzen", style = "Italic" }
+bold_italic = { family = "Tamzen", style = "Bold Italic" }
+
+# size = 11
+
+[window.padding]
+x = 25
+y = 25
+
+[colors.primary]
+background = '#000000'
+foreground = '#d5c0a4'
+
+[colors.cursor]
+text = '#000000'
+cursor = '#d5c0a4'
+
+[colors.normal]
+black   = '#0f100f'
+red     = '#625F31'
+green   = '#384A47'
+yellow  = '#615847'
+blue    = '#726B49'
+magenta = '#A66532'
+cyan    = '#8F7350'
+white   = '#d5c0a4'
+
+[colors.bright]
+black   = '#958672'
+red     = '#625F31'
+green   = '#384A47'
+yellow  = '#615847'
+blue    = '#726B49'
+magenta = '#A66532'
+cyan    = '#8F7350'
+white   = '#d5c0a4'
